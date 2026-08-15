@@ -1,4 +1,4 @@
-# 🐧 Linux Basics Commands
+# 🐧 Linux-Practical-Lab
 
 A practical, hands-on guide to essential Linux commands and basic system administration.
 
