@@ -1,69 +1,117 @@
-# 🐧 Linux-Practical-Lab
+# 🐧 Linux Practical Lab
 
-A practical, hands-on guide to essential Linux commands and basic system administration.
+A hands-on Linux learning and practice repository covering essential Linux commands, system administration concepts, text editors, processes, networking, services, and web server setup.
 
-This repository documents my learning and practical experience with the Linux command line, using Ubuntu Linux in a virtualized environment.
+All practical exercises in this repository are performed on an **Ubuntu Linux virtual machine**.
+
+---
+
+## 🎯 Objectives
+
+The purpose of this repository is to build practical knowledge of Linux command-line usage and basic system administration.
+
+The repository focuses on:
+
+* Executing Linux commands through the CLI
+* Managing files, directories, users, and groups
+* Working with Linux text editors
+* Understanding environment variables
+* Monitoring system resources
+* Managing Linux services
+* Working with processes and signals
+* Performing basic networking tasks
+* Setting up and managing an Apache web server
+* Hosting a personal portfolio website on a Linux VM
 
 ---
 
 ## 📚 Topics Covered
 
-| # | Topic | Description |
-|---|---|---|
-| 01 | System Update | Package update and upgrade commands |
-| 02 | File Management | Creating, copying, moving and deleting files |
-| 03 | Directory Management | Creating and managing directories |
-| 04 | User Management | Creating and managing Linux users |
-| 05 | Group Management | Creating and managing user groups |
-| 06 | File Permissions | Understanding `chmod`, `chown` and permissions |
-| 07 | Process Management | Monitoring and managing running processes |
-| 08 | Networking | Basic Linux networking and SSH commands |
-| 09 | System Information | Checking CPU, memory, disk and system information |
+| #  | Topic                                               |
+| -- | --------------------------------------------------- |
+| 01 | Linux Update & Upgrade Commands                     |
+| 02 | Linux User Management Commands                      |
+| 03 | Linux File Management Commands                      |
+| 04 | Linux `vi` Editor Commands                          |
+| 05 | Linux `nano` Editor Commands                        |
+| 06 | Environment Variables                               |
+| 07 | System-Level Commands — CPU, Memory, Disk & Network |
+| 08 | `systemctl` Commands                                |
+| 09 | `kill` Commands & Linux Signals                     |
+| 10 | Apache Web Server & Portfolio Hosting               |
+
+---
+
+## 🗂️ Repository Structure
+
+```text
+Linux-Practical-Lab/
+│
+├── README.md
+│
+├── 01-System-Update-Upgrade/
+├── 02-User-Management/
+├── 03-File-Management/
+├── 04-Vi-Editor/
+├── 05-Nano-Editor/
+├── 06-Environment-Variables/
+├── 07-System-Commands/
+├── 08-Systemctl/
+├── 09-Kill-Signals/
+└── 10-Apache-Web-Server/
+```
+
+Each topic contains its own documentation and practical screenshots where applicable.
 
 ---
 
 ## 🖥️ Environment
 
-- **OS:** Ubuntu Linux
-- **Environment:** Virtual Machine
-- **Shell:** Bash
-- **Version Control:** Git
-- **Repository:** GitHub
+* **Operating System:** Ubuntu Linux
+* **Environment:** Virtual Machine
+* **Shell:** Bash
+* **Platform:** VMware
+* **Version Control:** Git & GitHub
+* **Web Server:** Apache HTTP Server
 
 ---
 
-## 🎯 Purpose
+## 🧪 Practical Approach
 
-The purpose of this repository is to build a strong foundation in Linux command-line usage and basic system administration.
+This repository is based on hands-on practice rather than only theoretical command references.
 
-The commands are tested practically on a Linux virtual machine rather than being only theoretical examples.
+The general workflow is:
+
+```text
+Learn the command
+       ↓
+Execute it on Ubuntu VM
+       ↓
+Observe and understand the output
+       ↓
+Verify the result
+       ↓
+Document the command
+       ↓
+Capture useful screenshots
+       ↓
+Upload the work to GitHub
+```
 
 ---
 
-## 📖 Learning Approach
+## 📈 Progress
 
-Each topic will include:
-
-- Command
-- Syntax
-- Description
-- Practical example
-- Expected behavior
-- Important notes
-
----
-
-## 🚀 Progress
-
-- [ ] System Update & Upgrade
-- [ ] File Management
-- [ ] Directory Management
-- [ ] User Management
-- [ ] Group Management
-- [ ] File Permissions
-- [ ] Process Management
-- [ ] Networking
-- [ ] System Information
+* [ ] Linux Update & Upgrade
+* [ ] User Management
+* [ ] File Management
+* [ ] `vi` Editor
+* [ ] `nano` Editor
+* [ ] Environment Variables
+* [ ] System-Level Commands
+* [ ] `systemctl`
+* [ ] Processes & Signals
+* [ ] Apache Web Server & Portfolio Hosting
 
 ---
 
@@ -71,4 +119,4 @@ Each topic will include:
 
 **Moin Rafi**
 
-GitHub: [@MoinRafi11](https://github.com/MoinRafi11)
+GitHub: [MoinRafi11](https://github.com/MoinRafi11)
