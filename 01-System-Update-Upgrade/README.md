@@ -71,6 +71,6 @@ apt list --upgradable
 Check for remaining available upgrades
 
 
-🧪 Practical Usage:
 
-These commands were executed and tested on an Ubuntu Linux virtual machine as part of this Linux Practical Lab.
+
+
