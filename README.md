@@ -60,8 +60,7 @@ Linux-Practical-Lab/
 ├── 09-Kill-Signals/
 └── 10-Apache-Web-Server/
 ```
-
-Each topic contains its own documentation and practical screenshots where applicable.
+Each topic contains its own documentation, commands, explanation, and practical usage examples. 
 
 ---
 
@@ -78,24 +77,14 @@ Each topic contains its own documentation and practical screenshots where applic
 
 ## 🧪 Practical Approach
 
-This repository is based on hands-on practice rather than only theoretical command references.
+Each topic is documented with:
+- Important Linux commands
+- Explanation of each command
+- Practical usage examples
+- Command workflows where applicable
+- Notes based on hands-on practice on an Ubuntu Linux virtual machine.
 
-The general workflow is:
-
-```text
-Learn the command
-       ↓
-Execute it on Ubuntu VM
-       ↓
-Observe and understand the output
-       ↓
-Verify the result
-       ↓
-Document the command
-       ↓
-Capture useful screenshots
-       ↓
-Upload the work to GitHub
+ All commands were executed and tested during the practical work.
 ```
 
 ---
